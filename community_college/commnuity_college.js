@@ -11,3 +11,7 @@ hamburgerBtn.addEventListener("click", () => header.classList.toggle("show-mobil
 closeMenuBtn.addEventListener("click", () => hamburgerBtn.click());
 
 // nav bar script end here!
+
+function enroll() {
+    alert("Thank you for enrolling! We will contact you shortly.");
+}

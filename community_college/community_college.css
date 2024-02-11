@@ -134,3 +134,72 @@ header .navbar{
     }
 
 /* nav bar styling end here! */
+
+    body {
+        font-family: 'Arial', sans-serif;
+        margin: 0;
+        padding: 0;
+        background-color: #f5f5f5;
+    }
+
+
+
+    .s1{
+        max-width: 800px;
+        margin: 20px auto;
+        padding: 20px;
+        background-color: #fff;
+        box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        border-radius: 8px;
+        text-align: center;
+    }
+
+    .why_choose{
+        max-width: 800px;
+        margin: 20px auto;
+        padding: 20px;
+        background-color: #fff;
+        box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        border-radius: 8px;
+    }
+
+    h2 {
+        color: #333;
+    }
+
+    p {
+        color: #666;
+    }
+
+    /* Previous styles remain unchanged */
+
+    .why_choose {
+    text-align: center;
+    }
+
+    .feature {
+    margin: 20px 0;
+    }
+
+    .feature img {
+    max-width: 100%;
+    height: auto;
+    border-radius: 8px;
+    }
+
+    .feature p {
+    color: #333;
+    }
+
+    button {
+        background-color: #333;
+        color: #fff;
+        padding: 10px 15px;
+        border: none;
+        border-radius: 5px;
+        cursor: pointer;
+    }
+
+    button:hover {
+        background-color: #555;
+    }
